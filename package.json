@@ -1,0 +1,17 @@
+{
+  "name": "responsive-header",
+  "version": "1.0.0",
+  "description": "responsive header from shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "header"
+  ],
+  "author": "Fahad Kamran",
+  "license": "ISC",
+  "dependencies": {
+    "get-google-fonts": "^1.2.2"
+  }
+}
